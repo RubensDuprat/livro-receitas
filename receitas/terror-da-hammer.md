@@ -1,4 +1,4 @@
-# Terror da Hammer :bat:
+# Terror da Hammer :skull:
 
 ### Ingredientes
 
@@ -15,5 +15,5 @@
 
 1. Em um cenário de época, acrescente os ingredientes.
 2. Deixe ferver.
-3. Está pronto para servir.
+3. Sirva em cores.
 
